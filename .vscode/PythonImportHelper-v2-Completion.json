@@ -1,0 +1,2241 @@
+[
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "tiktoken",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tiktoken",
+        "description": "tiktoken",
+        "detail": "tiktoken",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "nullcontext",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "nullcontext",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "nullcontext",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "GPTConfig",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "GPT",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "GPTConfig",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "GPT",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "GPTConfig",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "GPT",
+        "importPath": "model",
+        "description": "model",
+        "isExtraImport": true,
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "literal_eval",
+        "importPath": "ast",
+        "description": "ast",
+        "isExtraImport": true,
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "inspect",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "inspect",
+        "description": "inspect",
+        "detail": "inspect",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "functional",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "isExtraImport": true,
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "torch.optim",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.optim",
+        "description": "torch.optim",
+        "detail": "torch.optim",
+        "documentation": {}
+    },
+    {
+        "label": "torch.quantization",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.quantization",
+        "description": "torch.quantization",
+        "detail": "torch.quantization",
+        "documentation": {}
+    },
+    {
+        "label": "quantize_qat",
+        "importPath": "torch.quantization",
+        "description": "torch.quantization",
+        "isExtraImport": true,
+        "detail": "torch.quantization",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_qat",
+        "importPath": "torch.quantization",
+        "description": "torch.quantization",
+        "isExtraImport": true,
+        "detail": "torch.quantization",
+        "documentation": {}
+    },
+    {
+        "label": "convert",
+        "importPath": "torch.quantization",
+        "description": "torch.quantization",
+        "isExtraImport": true,
+        "detail": "torch.quantization",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedDataParallel",
+        "importPath": "torch.nn.parallel",
+        "description": "torch.nn.parallel",
+        "isExtraImport": true,
+        "detail": "torch.nn.parallel",
+        "documentation": {}
+    },
+    {
+        "label": "init_process_group",
+        "importPath": "torch.distributed",
+        "description": "torch.distributed",
+        "isExtraImport": true,
+        "detail": "torch.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "destroy_process_group",
+        "importPath": "torch.distributed",
+        "description": "torch.distributed",
+        "isExtraImport": true,
+        "detail": "torch.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "config.eval_gpt2",
+        "description": "config.eval_gpt2",
+        "peekOfCode": "batch_size = 8\neval_iters = 500 # use more iterations to get good estimate\neval_only = True\nwandb_log = False\ninit_from = 'gpt2'",
+        "detail": "config.eval_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "eval_iters",
+        "kind": 5,
+        "importPath": "config.eval_gpt2",
+        "description": "config.eval_gpt2",
+        "peekOfCode": "eval_iters = 500 # use more iterations to get good estimate\neval_only = True\nwandb_log = False\ninit_from = 'gpt2'",
+        "detail": "config.eval_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "eval_only",
+        "kind": 5,
+        "importPath": "config.eval_gpt2",
+        "description": "config.eval_gpt2",
+        "peekOfCode": "eval_only = True\nwandb_log = False\ninit_from = 'gpt2'",
+        "detail": "config.eval_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_log",
+        "kind": 5,
+        "importPath": "config.eval_gpt2",
+        "description": "config.eval_gpt2",
+        "peekOfCode": "wandb_log = False\ninit_from = 'gpt2'",
+        "detail": "config.eval_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "init_from",
+        "kind": 5,
+        "importPath": "config.eval_gpt2",
+        "description": "config.eval_gpt2",
+        "peekOfCode": "init_from = 'gpt2'",
+        "detail": "config.eval_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_large",
+        "description": "config.eval_gpt2_large",
+        "peekOfCode": "batch_size = 8\neval_iters = 500 # use more iterations to get good estimate\neval_only = True\nwandb_log = False\ninit_from = 'gpt2-large'",
+        "detail": "config.eval_gpt2_large",
+        "documentation": {}
+    },
+    {
+        "label": "eval_iters",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_large",
+        "description": "config.eval_gpt2_large",
+        "peekOfCode": "eval_iters = 500 # use more iterations to get good estimate\neval_only = True\nwandb_log = False\ninit_from = 'gpt2-large'",
+        "detail": "config.eval_gpt2_large",
+        "documentation": {}
+    },
+    {
+        "label": "eval_only",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_large",
+        "description": "config.eval_gpt2_large",
+        "peekOfCode": "eval_only = True\nwandb_log = False\ninit_from = 'gpt2-large'",
+        "detail": "config.eval_gpt2_large",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_log",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_large",
+        "description": "config.eval_gpt2_large",
+        "peekOfCode": "wandb_log = False\ninit_from = 'gpt2-large'",
+        "detail": "config.eval_gpt2_large",
+        "documentation": {}
+    },
+    {
+        "label": "init_from",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_large",
+        "description": "config.eval_gpt2_large",
+        "peekOfCode": "init_from = 'gpt2-large'",
+        "detail": "config.eval_gpt2_large",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_medium",
+        "description": "config.eval_gpt2_medium",
+        "peekOfCode": "batch_size = 8\neval_iters = 500 # use more iterations to get good estimate\neval_only = True\nwandb_log = False\ninit_from = 'gpt2-medium'",
+        "detail": "config.eval_gpt2_medium",
+        "documentation": {}
+    },
+    {
+        "label": "eval_iters",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_medium",
+        "description": "config.eval_gpt2_medium",
+        "peekOfCode": "eval_iters = 500 # use more iterations to get good estimate\neval_only = True\nwandb_log = False\ninit_from = 'gpt2-medium'",
+        "detail": "config.eval_gpt2_medium",
+        "documentation": {}
+    },
+    {
+        "label": "eval_only",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_medium",
+        "description": "config.eval_gpt2_medium",
+        "peekOfCode": "eval_only = True\nwandb_log = False\ninit_from = 'gpt2-medium'",
+        "detail": "config.eval_gpt2_medium",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_log",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_medium",
+        "description": "config.eval_gpt2_medium",
+        "peekOfCode": "wandb_log = False\ninit_from = 'gpt2-medium'",
+        "detail": "config.eval_gpt2_medium",
+        "documentation": {}
+    },
+    {
+        "label": "init_from",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_medium",
+        "description": "config.eval_gpt2_medium",
+        "peekOfCode": "init_from = 'gpt2-medium'",
+        "detail": "config.eval_gpt2_medium",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_xl",
+        "description": "config.eval_gpt2_xl",
+        "peekOfCode": "batch_size = 8\neval_iters = 500 # use more iterations to get good estimate\neval_only = True\nwandb_log = False\ninit_from = 'gpt2-xl'",
+        "detail": "config.eval_gpt2_xl",
+        "documentation": {}
+    },
+    {
+        "label": "eval_iters",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_xl",
+        "description": "config.eval_gpt2_xl",
+        "peekOfCode": "eval_iters = 500 # use more iterations to get good estimate\neval_only = True\nwandb_log = False\ninit_from = 'gpt2-xl'",
+        "detail": "config.eval_gpt2_xl",
+        "documentation": {}
+    },
+    {
+        "label": "eval_only",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_xl",
+        "description": "config.eval_gpt2_xl",
+        "peekOfCode": "eval_only = True\nwandb_log = False\ninit_from = 'gpt2-xl'",
+        "detail": "config.eval_gpt2_xl",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_log",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_xl",
+        "description": "config.eval_gpt2_xl",
+        "peekOfCode": "wandb_log = False\ninit_from = 'gpt2-xl'",
+        "detail": "config.eval_gpt2_xl",
+        "documentation": {}
+    },
+    {
+        "label": "init_from",
+        "kind": 5,
+        "importPath": "config.eval_gpt2_xl",
+        "description": "config.eval_gpt2_xl",
+        "peekOfCode": "init_from = 'gpt2-xl'",
+        "detail": "config.eval_gpt2_xl",
+        "documentation": {}
+    },
+    {
+        "label": "out_dir",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "out_dir = 'out-shakespeare'\neval_interval = 5\neval_iters = 40\nwandb_log = False # feel free to turn on\nwandb_project = 'shakespeare'\nwandb_run_name = 'ft-' + str(time.time())\ndataset = 'shakespeare'\ninit_from = 'gpt2-xl' # this is the largest GPT-2 model\n# only save checkpoints if the validation loss improves\nalways_save_checkpoint = False",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "eval_interval",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "eval_interval = 5\neval_iters = 40\nwandb_log = False # feel free to turn on\nwandb_project = 'shakespeare'\nwandb_run_name = 'ft-' + str(time.time())\ndataset = 'shakespeare'\ninit_from = 'gpt2-xl' # this is the largest GPT-2 model\n# only save checkpoints if the validation loss improves\nalways_save_checkpoint = False\n# the number of examples per iter:",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "eval_iters",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "eval_iters = 40\nwandb_log = False # feel free to turn on\nwandb_project = 'shakespeare'\nwandb_run_name = 'ft-' + str(time.time())\ndataset = 'shakespeare'\ninit_from = 'gpt2-xl' # this is the largest GPT-2 model\n# only save checkpoints if the validation loss improves\nalways_save_checkpoint = False\n# the number of examples per iter:\n# 1 batch_size * 32 grad_accum * 1024 tokens = 32,768 tokens/iter",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_log",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "wandb_log = False # feel free to turn on\nwandb_project = 'shakespeare'\nwandb_run_name = 'ft-' + str(time.time())\ndataset = 'shakespeare'\ninit_from = 'gpt2-xl' # this is the largest GPT-2 model\n# only save checkpoints if the validation loss improves\nalways_save_checkpoint = False\n# the number of examples per iter:\n# 1 batch_size * 32 grad_accum * 1024 tokens = 32,768 tokens/iter\n# shakespeare has 301,966 tokens, so 1 epoch ~= 9.2 iters",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_project",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "wandb_project = 'shakespeare'\nwandb_run_name = 'ft-' + str(time.time())\ndataset = 'shakespeare'\ninit_from = 'gpt2-xl' # this is the largest GPT-2 model\n# only save checkpoints if the validation loss improves\nalways_save_checkpoint = False\n# the number of examples per iter:\n# 1 batch_size * 32 grad_accum * 1024 tokens = 32,768 tokens/iter\n# shakespeare has 301,966 tokens, so 1 epoch ~= 9.2 iters\nbatch_size = 1",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_run_name",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "wandb_run_name = 'ft-' + str(time.time())\ndataset = 'shakespeare'\ninit_from = 'gpt2-xl' # this is the largest GPT-2 model\n# only save checkpoints if the validation loss improves\nalways_save_checkpoint = False\n# the number of examples per iter:\n# 1 batch_size * 32 grad_accum * 1024 tokens = 32,768 tokens/iter\n# shakespeare has 301,966 tokens, so 1 epoch ~= 9.2 iters\nbatch_size = 1\ngradient_accumulation_steps = 32",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "dataset",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "dataset = 'shakespeare'\ninit_from = 'gpt2-xl' # this is the largest GPT-2 model\n# only save checkpoints if the validation loss improves\nalways_save_checkpoint = False\n# the number of examples per iter:\n# 1 batch_size * 32 grad_accum * 1024 tokens = 32,768 tokens/iter\n# shakespeare has 301,966 tokens, so 1 epoch ~= 9.2 iters\nbatch_size = 1\ngradient_accumulation_steps = 32\nmax_iters = 20",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "init_from",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "init_from = 'gpt2-xl' # this is the largest GPT-2 model\n# only save checkpoints if the validation loss improves\nalways_save_checkpoint = False\n# the number of examples per iter:\n# 1 batch_size * 32 grad_accum * 1024 tokens = 32,768 tokens/iter\n# shakespeare has 301,966 tokens, so 1 epoch ~= 9.2 iters\nbatch_size = 1\ngradient_accumulation_steps = 32\nmax_iters = 20\n# finetune at constant LR",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "always_save_checkpoint",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "always_save_checkpoint = False\n# the number of examples per iter:\n# 1 batch_size * 32 grad_accum * 1024 tokens = 32,768 tokens/iter\n# shakespeare has 301,966 tokens, so 1 epoch ~= 9.2 iters\nbatch_size = 1\ngradient_accumulation_steps = 32\nmax_iters = 20\n# finetune at constant LR\nlearning_rate = 3e-5\ndecay_lr = False",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "batch_size = 1\ngradient_accumulation_steps = 32\nmax_iters = 20\n# finetune at constant LR\nlearning_rate = 3e-5\ndecay_lr = False",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "gradient_accumulation_steps",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "gradient_accumulation_steps = 32\nmax_iters = 20\n# finetune at constant LR\nlearning_rate = 3e-5\ndecay_lr = False",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "max_iters",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "max_iters = 20\n# finetune at constant LR\nlearning_rate = 3e-5\ndecay_lr = False",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "learning_rate",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "learning_rate = 3e-5\ndecay_lr = False",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "decay_lr",
+        "kind": 5,
+        "importPath": "config.finetune_shakespeare",
+        "description": "config.finetune_shakespeare",
+        "peekOfCode": "decay_lr = False",
+        "detail": "config.finetune_shakespeare",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_log",
+        "kind": 5,
+        "importPath": "config.train_gpt2",
+        "description": "config.train_gpt2",
+        "peekOfCode": "wandb_log = True\nwandb_project = 'owt'\nwandb_run_name='gpt2-124M'\n# these make the total batch size be ~0.5M\n# 12 batch size * 1024 block size * 5 gradaccum * 8 GPUs = 491,520\nbatch_size = 12\nblock_size = 1024\ngradient_accumulation_steps = 5 * 8\n# this makes total number of tokens be 300B\nmax_iters = 600000",
+        "detail": "config.train_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_project",
+        "kind": 5,
+        "importPath": "config.train_gpt2",
+        "description": "config.train_gpt2",
+        "peekOfCode": "wandb_project = 'owt'\nwandb_run_name='gpt2-124M'\n# these make the total batch size be ~0.5M\n# 12 batch size * 1024 block size * 5 gradaccum * 8 GPUs = 491,520\nbatch_size = 12\nblock_size = 1024\ngradient_accumulation_steps = 5 * 8\n# this makes total number of tokens be 300B\nmax_iters = 600000\nlr_decay_iters = 600000",
+        "detail": "config.train_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "config.train_gpt2",
+        "description": "config.train_gpt2",
+        "peekOfCode": "batch_size = 12\nblock_size = 1024\ngradient_accumulation_steps = 5 * 8\n# this makes total number of tokens be 300B\nmax_iters = 600000\nlr_decay_iters = 600000\n# eval stuff\neval_interval = 1000\neval_iters = 200\nlog_interval = 10",
+        "detail": "config.train_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "block_size",
+        "kind": 5,
+        "importPath": "config.train_gpt2",
+        "description": "config.train_gpt2",
+        "peekOfCode": "block_size = 1024\ngradient_accumulation_steps = 5 * 8\n# this makes total number of tokens be 300B\nmax_iters = 600000\nlr_decay_iters = 600000\n# eval stuff\neval_interval = 1000\neval_iters = 200\nlog_interval = 10\n# weight decay",
+        "detail": "config.train_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "gradient_accumulation_steps",
+        "kind": 5,
+        "importPath": "config.train_gpt2",
+        "description": "config.train_gpt2",
+        "peekOfCode": "gradient_accumulation_steps = 5 * 8\n# this makes total number of tokens be 300B\nmax_iters = 600000\nlr_decay_iters = 600000\n# eval stuff\neval_interval = 1000\neval_iters = 200\nlog_interval = 10\n# weight decay\nweight_decay = 1e-1",
+        "detail": "config.train_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "max_iters",
+        "kind": 5,
+        "importPath": "config.train_gpt2",
+        "description": "config.train_gpt2",
+        "peekOfCode": "max_iters = 600000\nlr_decay_iters = 600000\n# eval stuff\neval_interval = 1000\neval_iters = 200\nlog_interval = 10\n# weight decay\nweight_decay = 1e-1",
+        "detail": "config.train_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "lr_decay_iters",
+        "kind": 5,
+        "importPath": "config.train_gpt2",
+        "description": "config.train_gpt2",
+        "peekOfCode": "lr_decay_iters = 600000\n# eval stuff\neval_interval = 1000\neval_iters = 200\nlog_interval = 10\n# weight decay\nweight_decay = 1e-1",
+        "detail": "config.train_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "eval_interval",
+        "kind": 5,
+        "importPath": "config.train_gpt2",
+        "description": "config.train_gpt2",
+        "peekOfCode": "eval_interval = 1000\neval_iters = 200\nlog_interval = 10\n# weight decay\nweight_decay = 1e-1",
+        "detail": "config.train_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "eval_iters",
+        "kind": 5,
+        "importPath": "config.train_gpt2",
+        "description": "config.train_gpt2",
+        "peekOfCode": "eval_iters = 200\nlog_interval = 10\n# weight decay\nweight_decay = 1e-1",
+        "detail": "config.train_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "log_interval",
+        "kind": 5,
+        "importPath": "config.train_gpt2",
+        "description": "config.train_gpt2",
+        "peekOfCode": "log_interval = 10\n# weight decay\nweight_decay = 1e-1",
+        "detail": "config.train_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "weight_decay",
+        "kind": 5,
+        "importPath": "config.train_gpt2",
+        "description": "config.train_gpt2",
+        "peekOfCode": "weight_decay = 1e-1",
+        "detail": "config.train_gpt2",
+        "documentation": {}
+    },
+    {
+        "label": "out_dir",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "out_dir = 'out-shakespeare-char'\neval_interval = 250 # keep frequent because we'll overfit\neval_iters = 200\nlog_interval = 10 # don't print too too often\n# we expect to overfit on this small dataset, so only save when val improves\nalways_save_checkpoint = False\nwandb_log = False # override via command line if you like\nwandb_project = 'shakespeare-char'\nwandb_run_name = 'mini-gpt'\ndataset = 'shakespeare_char'",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "eval_interval",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "eval_interval = 250 # keep frequent because we'll overfit\neval_iters = 200\nlog_interval = 10 # don't print too too often\n# we expect to overfit on this small dataset, so only save when val improves\nalways_save_checkpoint = False\nwandb_log = False # override via command line if you like\nwandb_project = 'shakespeare-char'\nwandb_run_name = 'mini-gpt'\ndataset = 'shakespeare_char'\ngradient_accumulation_steps = 1",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "eval_iters",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "eval_iters = 200\nlog_interval = 10 # don't print too too often\n# we expect to overfit on this small dataset, so only save when val improves\nalways_save_checkpoint = False\nwandb_log = False # override via command line if you like\nwandb_project = 'shakespeare-char'\nwandb_run_name = 'mini-gpt'\ndataset = 'shakespeare_char'\ngradient_accumulation_steps = 1\nbatch_size = 64",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "log_interval",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "log_interval = 10 # don't print too too often\n# we expect to overfit on this small dataset, so only save when val improves\nalways_save_checkpoint = False\nwandb_log = False # override via command line if you like\nwandb_project = 'shakespeare-char'\nwandb_run_name = 'mini-gpt'\ndataset = 'shakespeare_char'\ngradient_accumulation_steps = 1\nbatch_size = 64\nblock_size = 256 # context of up to 256 previous characters",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "always_save_checkpoint",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "always_save_checkpoint = False\nwandb_log = False # override via command line if you like\nwandb_project = 'shakespeare-char'\nwandb_run_name = 'mini-gpt'\ndataset = 'shakespeare_char'\ngradient_accumulation_steps = 1\nbatch_size = 64\nblock_size = 256 # context of up to 256 previous characters\n# baby GPT model :)\nn_layer = 6",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_log",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "wandb_log = False # override via command line if you like\nwandb_project = 'shakespeare-char'\nwandb_run_name = 'mini-gpt'\ndataset = 'shakespeare_char'\ngradient_accumulation_steps = 1\nbatch_size = 64\nblock_size = 256 # context of up to 256 previous characters\n# baby GPT model :)\nn_layer = 6\nn_head = 6",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_project",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "wandb_project = 'shakespeare-char'\nwandb_run_name = 'mini-gpt'\ndataset = 'shakespeare_char'\ngradient_accumulation_steps = 1\nbatch_size = 64\nblock_size = 256 # context of up to 256 previous characters\n# baby GPT model :)\nn_layer = 6\nn_head = 6\nn_embd = 384",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_run_name",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "wandb_run_name = 'mini-gpt'\ndataset = 'shakespeare_char'\ngradient_accumulation_steps = 1\nbatch_size = 64\nblock_size = 256 # context of up to 256 previous characters\n# baby GPT model :)\nn_layer = 6\nn_head = 6\nn_embd = 384\ndropout = 0.2",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "dataset",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "dataset = 'shakespeare_char'\ngradient_accumulation_steps = 1\nbatch_size = 64\nblock_size = 256 # context of up to 256 previous characters\n# baby GPT model :)\nn_layer = 6\nn_head = 6\nn_embd = 384\ndropout = 0.2\nlearning_rate = 1e-3 # with baby networks can afford to go a bit higher",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "gradient_accumulation_steps",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "gradient_accumulation_steps = 1\nbatch_size = 64\nblock_size = 256 # context of up to 256 previous characters\n# baby GPT model :)\nn_layer = 6\nn_head = 6\nn_embd = 384\ndropout = 0.2\nlearning_rate = 1e-3 # with baby networks can afford to go a bit higher\nmax_iters = 5000",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "batch_size = 64\nblock_size = 256 # context of up to 256 previous characters\n# baby GPT model :)\nn_layer = 6\nn_head = 6\nn_embd = 384\ndropout = 0.2\nlearning_rate = 1e-3 # with baby networks can afford to go a bit higher\nmax_iters = 5000\nlr_decay_iters = 5000 # make equal to max_iters usually",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "block_size",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "block_size = 256 # context of up to 256 previous characters\n# baby GPT model :)\nn_layer = 6\nn_head = 6\nn_embd = 384\ndropout = 0.2\nlearning_rate = 1e-3 # with baby networks can afford to go a bit higher\nmax_iters = 5000\nlr_decay_iters = 5000 # make equal to max_iters usually\nmin_lr = 1e-4 # learning_rate / 10 usually",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "n_layer",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "n_layer = 6\nn_head = 6\nn_embd = 384\ndropout = 0.2\nlearning_rate = 1e-3 # with baby networks can afford to go a bit higher\nmax_iters = 5000\nlr_decay_iters = 5000 # make equal to max_iters usually\nmin_lr = 1e-4 # learning_rate / 10 usually\nbeta2 = 0.99 # make a bit bigger because number of tokens per iter is small\nwarmup_iters = 100 # not super necessary potentially",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "n_head",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "n_head = 6\nn_embd = 384\ndropout = 0.2\nlearning_rate = 1e-3 # with baby networks can afford to go a bit higher\nmax_iters = 5000\nlr_decay_iters = 5000 # make equal to max_iters usually\nmin_lr = 1e-4 # learning_rate / 10 usually\nbeta2 = 0.99 # make a bit bigger because number of tokens per iter is small\nwarmup_iters = 100 # not super necessary potentially\n# on macbook also add",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "n_embd",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "n_embd = 384\ndropout = 0.2\nlearning_rate = 1e-3 # with baby networks can afford to go a bit higher\nmax_iters = 5000\nlr_decay_iters = 5000 # make equal to max_iters usually\nmin_lr = 1e-4 # learning_rate / 10 usually\nbeta2 = 0.99 # make a bit bigger because number of tokens per iter is small\nwarmup_iters = 100 # not super necessary potentially\n# on macbook also add\n# device = 'cpu'  # run on cpu only",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "dropout",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "dropout = 0.2\nlearning_rate = 1e-3 # with baby networks can afford to go a bit higher\nmax_iters = 5000\nlr_decay_iters = 5000 # make equal to max_iters usually\nmin_lr = 1e-4 # learning_rate / 10 usually\nbeta2 = 0.99 # make a bit bigger because number of tokens per iter is small\nwarmup_iters = 100 # not super necessary potentially\n# on macbook also add\n# device = 'cpu'  # run on cpu only\n# compile = False # do not torch compile the model",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "learning_rate",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "learning_rate = 1e-3 # with baby networks can afford to go a bit higher\nmax_iters = 5000\nlr_decay_iters = 5000 # make equal to max_iters usually\nmin_lr = 1e-4 # learning_rate / 10 usually\nbeta2 = 0.99 # make a bit bigger because number of tokens per iter is small\nwarmup_iters = 100 # not super necessary potentially\n# on macbook also add\n# device = 'cpu'  # run on cpu only\n# compile = False # do not torch compile the model",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "max_iters",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "max_iters = 5000\nlr_decay_iters = 5000 # make equal to max_iters usually\nmin_lr = 1e-4 # learning_rate / 10 usually\nbeta2 = 0.99 # make a bit bigger because number of tokens per iter is small\nwarmup_iters = 100 # not super necessary potentially\n# on macbook also add\n# device = 'cpu'  # run on cpu only\n# compile = False # do not torch compile the model",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "lr_decay_iters",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "lr_decay_iters = 5000 # make equal to max_iters usually\nmin_lr = 1e-4 # learning_rate / 10 usually\nbeta2 = 0.99 # make a bit bigger because number of tokens per iter is small\nwarmup_iters = 100 # not super necessary potentially\n# on macbook also add\n# device = 'cpu'  # run on cpu only\n# compile = False # do not torch compile the model",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "min_lr",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "min_lr = 1e-4 # learning_rate / 10 usually\nbeta2 = 0.99 # make a bit bigger because number of tokens per iter is small\nwarmup_iters = 100 # not super necessary potentially\n# on macbook also add\n# device = 'cpu'  # run on cpu only\n# compile = False # do not torch compile the model",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "beta2",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "beta2 = 0.99 # make a bit bigger because number of tokens per iter is small\nwarmup_iters = 100 # not super necessary potentially\n# on macbook also add\n# device = 'cpu'  # run on cpu only\n# compile = False # do not torch compile the model",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "warmup_iters",
+        "kind": 5,
+        "importPath": "config.train_shakespeare_char",
+        "description": "config.train_shakespeare_char",
+        "peekOfCode": "warmup_iters = 100 # not super necessary potentially\n# on macbook also add\n# device = 'cpu'  # run on cpu only\n# compile = False # do not torch compile the model",
+        "detail": "config.train_shakespeare_char",
+        "documentation": {}
+    },
+    {
+        "label": "num_proc",
+        "kind": 5,
+        "importPath": "data.openwebtext.prepare",
+        "description": "data.openwebtext.prepare",
+        "peekOfCode": "num_proc = 8\n# number of workers in load_dataset() call\n# best number might be different from num_proc above as it also depends on NW speed.\n# it is better than 1 usually though\nnum_proc_load_dataset = num_proc\nenc = tiktoken.get_encoding(\"gpt2\")\nif __name__ == '__main__':\n    # takes 54GB in huggingface .cache dir, about 8M documents (8,013,769)\n    dataset = load_dataset(\"openwebtext\", num_proc=num_proc_load_dataset)\n    # owt by default only contains the 'train' split, so create a test split",
+        "detail": "data.openwebtext.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "num_proc_load_dataset",
+        "kind": 5,
+        "importPath": "data.openwebtext.prepare",
+        "description": "data.openwebtext.prepare",
+        "peekOfCode": "num_proc_load_dataset = num_proc\nenc = tiktoken.get_encoding(\"gpt2\")\nif __name__ == '__main__':\n    # takes 54GB in huggingface .cache dir, about 8M documents (8,013,769)\n    dataset = load_dataset(\"openwebtext\", num_proc=num_proc_load_dataset)\n    # owt by default only contains the 'train' split, so create a test split\n    split_dataset = dataset[\"train\"].train_test_split(test_size=0.0005, seed=2357, shuffle=True)\n    split_dataset['val'] = split_dataset.pop('test') # rename the test split to val\n    # this results in:\n    # >>> split_dataset",
+        "detail": "data.openwebtext.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "enc",
+        "kind": 5,
+        "importPath": "data.openwebtext.prepare",
+        "description": "data.openwebtext.prepare",
+        "peekOfCode": "enc = tiktoken.get_encoding(\"gpt2\")\nif __name__ == '__main__':\n    # takes 54GB in huggingface .cache dir, about 8M documents (8,013,769)\n    dataset = load_dataset(\"openwebtext\", num_proc=num_proc_load_dataset)\n    # owt by default only contains the 'train' split, so create a test split\n    split_dataset = dataset[\"train\"].train_test_split(test_size=0.0005, seed=2357, shuffle=True)\n    split_dataset['val'] = split_dataset.pop('test') # rename the test split to val\n    # this results in:\n    # >>> split_dataset\n    # DatasetDict({",
+        "detail": "data.openwebtext.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "input_file_path",
+        "kind": 5,
+        "importPath": "data.shakespeare.prepare",
+        "description": "data.shakespeare.prepare",
+        "peekOfCode": "input_file_path = os.path.join(os.path.dirname(__file__), 'input.txt')\nif not os.path.exists(input_file_path):\n    data_url = 'https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt'\n    with open(input_file_path, 'w', encoding='utf-8') as f:\n        f.write(requests.get(data_url).text)\nwith open(input_file_path, 'r', encoding='utf-8') as f:\n    data = f.read()\nn = len(data)\ntrain_data = data[:int(n*0.9)]\nval_data = data[int(n*0.9):]",
+        "detail": "data.shakespeare.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "data.shakespeare.prepare",
+        "description": "data.shakespeare.prepare",
+        "peekOfCode": "n = len(data)\ntrain_data = data[:int(n*0.9)]\nval_data = data[int(n*0.9):]\n# encode with tiktoken gpt2 bpe\nenc = tiktoken.get_encoding(\"gpt2\")\ntrain_ids = enc.encode_ordinary(train_data)\nval_ids = enc.encode_ordinary(val_data)\nprint(f\"train has {len(train_ids):,} tokens\")\nprint(f\"val has {len(val_ids):,} tokens\")\n# export to bin files",
+        "detail": "data.shakespeare.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "train_data",
+        "kind": 5,
+        "importPath": "data.shakespeare.prepare",
+        "description": "data.shakespeare.prepare",
+        "peekOfCode": "train_data = data[:int(n*0.9)]\nval_data = data[int(n*0.9):]\n# encode with tiktoken gpt2 bpe\nenc = tiktoken.get_encoding(\"gpt2\")\ntrain_ids = enc.encode_ordinary(train_data)\nval_ids = enc.encode_ordinary(val_data)\nprint(f\"train has {len(train_ids):,} tokens\")\nprint(f\"val has {len(val_ids):,} tokens\")\n# export to bin files\ntrain_ids = np.array(train_ids, dtype=np.uint16)",
+        "detail": "data.shakespeare.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "val_data",
+        "kind": 5,
+        "importPath": "data.shakespeare.prepare",
+        "description": "data.shakespeare.prepare",
+        "peekOfCode": "val_data = data[int(n*0.9):]\n# encode with tiktoken gpt2 bpe\nenc = tiktoken.get_encoding(\"gpt2\")\ntrain_ids = enc.encode_ordinary(train_data)\nval_ids = enc.encode_ordinary(val_data)\nprint(f\"train has {len(train_ids):,} tokens\")\nprint(f\"val has {len(val_ids):,} tokens\")\n# export to bin files\ntrain_ids = np.array(train_ids, dtype=np.uint16)\nval_ids = np.array(val_ids, dtype=np.uint16)",
+        "detail": "data.shakespeare.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "enc",
+        "kind": 5,
+        "importPath": "data.shakespeare.prepare",
+        "description": "data.shakespeare.prepare",
+        "peekOfCode": "enc = tiktoken.get_encoding(\"gpt2\")\ntrain_ids = enc.encode_ordinary(train_data)\nval_ids = enc.encode_ordinary(val_data)\nprint(f\"train has {len(train_ids):,} tokens\")\nprint(f\"val has {len(val_ids):,} tokens\")\n# export to bin files\ntrain_ids = np.array(train_ids, dtype=np.uint16)\nval_ids = np.array(val_ids, dtype=np.uint16)\ntrain_ids.tofile(os.path.join(os.path.dirname(__file__), 'train.bin'))\nval_ids.tofile(os.path.join(os.path.dirname(__file__), 'val.bin'))",
+        "detail": "data.shakespeare.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "train_ids",
+        "kind": 5,
+        "importPath": "data.shakespeare.prepare",
+        "description": "data.shakespeare.prepare",
+        "peekOfCode": "train_ids = enc.encode_ordinary(train_data)\nval_ids = enc.encode_ordinary(val_data)\nprint(f\"train has {len(train_ids):,} tokens\")\nprint(f\"val has {len(val_ids):,} tokens\")\n# export to bin files\ntrain_ids = np.array(train_ids, dtype=np.uint16)\nval_ids = np.array(val_ids, dtype=np.uint16)\ntrain_ids.tofile(os.path.join(os.path.dirname(__file__), 'train.bin'))\nval_ids.tofile(os.path.join(os.path.dirname(__file__), 'val.bin'))\n# train.bin has 301,966 tokens",
+        "detail": "data.shakespeare.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "val_ids",
+        "kind": 5,
+        "importPath": "data.shakespeare.prepare",
+        "description": "data.shakespeare.prepare",
+        "peekOfCode": "val_ids = enc.encode_ordinary(val_data)\nprint(f\"train has {len(train_ids):,} tokens\")\nprint(f\"val has {len(val_ids):,} tokens\")\n# export to bin files\ntrain_ids = np.array(train_ids, dtype=np.uint16)\nval_ids = np.array(val_ids, dtype=np.uint16)\ntrain_ids.tofile(os.path.join(os.path.dirname(__file__), 'train.bin'))\nval_ids.tofile(os.path.join(os.path.dirname(__file__), 'val.bin'))\n# train.bin has 301,966 tokens\n# val.bin has 36,059 tokens",
+        "detail": "data.shakespeare.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "train_ids",
+        "kind": 5,
+        "importPath": "data.shakespeare.prepare",
+        "description": "data.shakespeare.prepare",
+        "peekOfCode": "train_ids = np.array(train_ids, dtype=np.uint16)\nval_ids = np.array(val_ids, dtype=np.uint16)\ntrain_ids.tofile(os.path.join(os.path.dirname(__file__), 'train.bin'))\nval_ids.tofile(os.path.join(os.path.dirname(__file__), 'val.bin'))\n# train.bin has 301,966 tokens\n# val.bin has 36,059 tokens",
+        "detail": "data.shakespeare.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "val_ids",
+        "kind": 5,
+        "importPath": "data.shakespeare.prepare",
+        "description": "data.shakespeare.prepare",
+        "peekOfCode": "val_ids = np.array(val_ids, dtype=np.uint16)\ntrain_ids.tofile(os.path.join(os.path.dirname(__file__), 'train.bin'))\nval_ids.tofile(os.path.join(os.path.dirname(__file__), 'val.bin'))\n# train.bin has 301,966 tokens\n# val.bin has 36,059 tokens",
+        "detail": "data.shakespeare.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "encode",
+        "kind": 2,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "def encode(s):\n    return [stoi[c] for c in s] # encoder: take a string, output a list of integers\ndef decode(l):\n    return ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string\n# create the train and test splits\nn = len(data)\ntrain_data = data[:int(n*0.9)]\nval_data = data[int(n*0.9):]\n# encode both to integers\ntrain_ids = encode(train_data)",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "decode",
+        "kind": 2,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "def decode(l):\n    return ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string\n# create the train and test splits\nn = len(data)\ntrain_data = data[:int(n*0.9)]\nval_data = data[int(n*0.9):]\n# encode both to integers\ntrain_ids = encode(train_data)\nval_ids = encode(val_data)\nprint(f\"train has {len(train_ids):,} tokens\")",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "input_file_path",
+        "kind": 5,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "input_file_path = os.path.join(os.path.dirname(__file__), 'input.txt')\nif not os.path.exists(input_file_path):\n    data_url = 'https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt'\n    with open(input_file_path, 'w') as f:\n        f.write(requests.get(data_url).text)\nwith open(input_file_path, 'r') as f:\n    data = f.read()\nprint(f\"length of dataset in characters: {len(data):,}\")\n# get all the unique characters that occur in this text\nchars = sorted(list(set(data)))",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "chars",
+        "kind": 5,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "chars = sorted(list(set(data)))\nvocab_size = len(chars)\nprint(\"all the unique characters:\", ''.join(chars))\nprint(f\"vocab size: {vocab_size:,}\")\n# create a mapping from characters to integers\nstoi = { ch:i for i,ch in enumerate(chars) }\nitos = { i:ch for i,ch in enumerate(chars) }\ndef encode(s):\n    return [stoi[c] for c in s] # encoder: take a string, output a list of integers\ndef decode(l):",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "vocab_size",
+        "kind": 5,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "vocab_size = len(chars)\nprint(\"all the unique characters:\", ''.join(chars))\nprint(f\"vocab size: {vocab_size:,}\")\n# create a mapping from characters to integers\nstoi = { ch:i for i,ch in enumerate(chars) }\nitos = { i:ch for i,ch in enumerate(chars) }\ndef encode(s):\n    return [stoi[c] for c in s] # encoder: take a string, output a list of integers\ndef decode(l):\n    return ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "stoi",
+        "kind": 5,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "stoi = { ch:i for i,ch in enumerate(chars) }\nitos = { i:ch for i,ch in enumerate(chars) }\ndef encode(s):\n    return [stoi[c] for c in s] # encoder: take a string, output a list of integers\ndef decode(l):\n    return ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string\n# create the train and test splits\nn = len(data)\ntrain_data = data[:int(n*0.9)]\nval_data = data[int(n*0.9):]",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "itos",
+        "kind": 5,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "itos = { i:ch for i,ch in enumerate(chars) }\ndef encode(s):\n    return [stoi[c] for c in s] # encoder: take a string, output a list of integers\ndef decode(l):\n    return ''.join([itos[i] for i in l]) # decoder: take a list of integers, output a string\n# create the train and test splits\nn = len(data)\ntrain_data = data[:int(n*0.9)]\nval_data = data[int(n*0.9):]\n# encode both to integers",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "n",
+        "kind": 5,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "n = len(data)\ntrain_data = data[:int(n*0.9)]\nval_data = data[int(n*0.9):]\n# encode both to integers\ntrain_ids = encode(train_data)\nval_ids = encode(val_data)\nprint(f\"train has {len(train_ids):,} tokens\")\nprint(f\"val has {len(val_ids):,} tokens\")\n# export to bin files\ntrain_ids = np.array(train_ids, dtype=np.uint16)",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "train_data",
+        "kind": 5,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "train_data = data[:int(n*0.9)]\nval_data = data[int(n*0.9):]\n# encode both to integers\ntrain_ids = encode(train_data)\nval_ids = encode(val_data)\nprint(f\"train has {len(train_ids):,} tokens\")\nprint(f\"val has {len(val_ids):,} tokens\")\n# export to bin files\ntrain_ids = np.array(train_ids, dtype=np.uint16)\nval_ids = np.array(val_ids, dtype=np.uint16)",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "val_data",
+        "kind": 5,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "val_data = data[int(n*0.9):]\n# encode both to integers\ntrain_ids = encode(train_data)\nval_ids = encode(val_data)\nprint(f\"train has {len(train_ids):,} tokens\")\nprint(f\"val has {len(val_ids):,} tokens\")\n# export to bin files\ntrain_ids = np.array(train_ids, dtype=np.uint16)\nval_ids = np.array(val_ids, dtype=np.uint16)\ntrain_ids.tofile(os.path.join(os.path.dirname(__file__), 'train.bin'))",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "train_ids",
+        "kind": 5,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "train_ids = encode(train_data)\nval_ids = encode(val_data)\nprint(f\"train has {len(train_ids):,} tokens\")\nprint(f\"val has {len(val_ids):,} tokens\")\n# export to bin files\ntrain_ids = np.array(train_ids, dtype=np.uint16)\nval_ids = np.array(val_ids, dtype=np.uint16)\ntrain_ids.tofile(os.path.join(os.path.dirname(__file__), 'train.bin'))\nval_ids.tofile(os.path.join(os.path.dirname(__file__), 'val.bin'))\n# save the meta information as well, to help us encode/decode later",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "val_ids",
+        "kind": 5,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "val_ids = encode(val_data)\nprint(f\"train has {len(train_ids):,} tokens\")\nprint(f\"val has {len(val_ids):,} tokens\")\n# export to bin files\ntrain_ids = np.array(train_ids, dtype=np.uint16)\nval_ids = np.array(val_ids, dtype=np.uint16)\ntrain_ids.tofile(os.path.join(os.path.dirname(__file__), 'train.bin'))\nval_ids.tofile(os.path.join(os.path.dirname(__file__), 'val.bin'))\n# save the meta information as well, to help us encode/decode later\nmeta = {",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "train_ids",
+        "kind": 5,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "train_ids = np.array(train_ids, dtype=np.uint16)\nval_ids = np.array(val_ids, dtype=np.uint16)\ntrain_ids.tofile(os.path.join(os.path.dirname(__file__), 'train.bin'))\nval_ids.tofile(os.path.join(os.path.dirname(__file__), 'val.bin'))\n# save the meta information as well, to help us encode/decode later\nmeta = {\n    'vocab_size': vocab_size,\n    'itos': itos,\n    'stoi': stoi,\n}",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "val_ids",
+        "kind": 5,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "val_ids = np.array(val_ids, dtype=np.uint16)\ntrain_ids.tofile(os.path.join(os.path.dirname(__file__), 'train.bin'))\nval_ids.tofile(os.path.join(os.path.dirname(__file__), 'val.bin'))\n# save the meta information as well, to help us encode/decode later\nmeta = {\n    'vocab_size': vocab_size,\n    'itos': itos,\n    'stoi': stoi,\n}\nwith open(os.path.join(os.path.dirname(__file__), 'meta.pkl'), 'wb') as f:",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "meta",
+        "kind": 5,
+        "importPath": "data.shakespeare_char.prepare",
+        "description": "data.shakespeare_char.prepare",
+        "peekOfCode": "meta = {\n    'vocab_size': vocab_size,\n    'itos': itos,\n    'stoi': stoi,\n}\nwith open(os.path.join(os.path.dirname(__file__), 'meta.pkl'), 'wb') as f:\n    pickle.dump(meta, f)\n# length of dataset in characters:  1115394\n# all the unique characters:\n#  !$&',-.3:;?ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",
+        "detail": "data.shakespeare_char.prepare",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "batch_size = 12\nblock_size = 1024\nbias = False\nreal_data = True\nseed = 1337\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = True # use PyTorch 2.0 to compile the model to be faster\nprofile = False # use pytorch profiler, or just simple benchmarking?\nexec(open('configurator.py').read()) # overrides from command line or config file",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "block_size",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "block_size = 1024\nbias = False\nreal_data = True\nseed = 1337\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = True # use PyTorch 2.0 to compile the model to be faster\nprofile = False # use pytorch profiler, or just simple benchmarking?\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "bias",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "bias = False\nreal_data = True\nseed = 1337\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = True # use PyTorch 2.0 to compile the model to be faster\nprofile = False # use pytorch profiler, or just simple benchmarking?\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "real_data",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "real_data = True\nseed = 1337\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = True # use PyTorch 2.0 to compile the model to be faster\nprofile = False # use pytorch profiler, or just simple benchmarking?\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)\ntorch.cuda.manual_seed(seed)",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "seed",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "seed = 1337\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = True # use PyTorch 2.0 to compile the model to be faster\nprofile = False # use pytorch profiler, or just simple benchmarking?\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)\ntorch.cuda.manual_seed(seed)\ntorch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "device = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = True # use PyTorch 2.0 to compile the model to be faster\nprofile = False # use pytorch profiler, or just simple benchmarking?\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)\ntorch.cuda.manual_seed(seed)\ntorch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul\ntorch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "dtype",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "dtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = True # use PyTorch 2.0 to compile the model to be faster\nprofile = False # use pytorch profiler, or just simple benchmarking?\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)\ntorch.cuda.manual_seed(seed)\ntorch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul\ntorch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn\ndevice_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "compile",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "compile = True # use PyTorch 2.0 to compile the model to be faster\nprofile = False # use pytorch profiler, or just simple benchmarking?\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)\ntorch.cuda.manual_seed(seed)\ntorch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul\ntorch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn\ndevice_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "profile",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "profile = False # use pytorch profiler, or just simple benchmarking?\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)\ntorch.cuda.manual_seed(seed)\ntorch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul\ntorch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn\ndevice_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "torch.backends.cuda.matmul.allow_tf32",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "torch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul\ntorch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn\ndevice_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# data loading init\nif real_data:\n    dataset = 'openwebtext'\n    data_dir = os.path.join('data', dataset)\n    train_data = np.memmap(os.path.join(data_dir, 'train.bin'), dtype=np.uint16, mode='r')",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "torch.backends.cudnn.allow_tf32",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "torch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn\ndevice_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# data loading init\nif real_data:\n    dataset = 'openwebtext'\n    data_dir = os.path.join('data', dataset)\n    train_data = np.memmap(os.path.join(data_dir, 'train.bin'), dtype=np.uint16, mode='r')\n    def get_batch(split):",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "device_type",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "device_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# data loading init\nif real_data:\n    dataset = 'openwebtext'\n    data_dir = os.path.join('data', dataset)\n    train_data = np.memmap(os.path.join(data_dir, 'train.bin'), dtype=np.uint16, mode='r')\n    def get_batch(split):\n        data = train_data # note ignore split in benchmarking script",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "ptdtype",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "ptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# data loading init\nif real_data:\n    dataset = 'openwebtext'\n    data_dir = os.path.join('data', dataset)\n    train_data = np.memmap(os.path.join(data_dir, 'train.bin'), dtype=np.uint16, mode='r')\n    def get_batch(split):\n        data = train_data # note ignore split in benchmarking script\n        ix = torch.randint(len(data) - block_size, (batch_size,))",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "ctx",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "ctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# data loading init\nif real_data:\n    dataset = 'openwebtext'\n    data_dir = os.path.join('data', dataset)\n    train_data = np.memmap(os.path.join(data_dir, 'train.bin'), dtype=np.uint16, mode='r')\n    def get_batch(split):\n        data = train_data # note ignore split in benchmarking script\n        ix = torch.randint(len(data) - block_size, (batch_size,))\n        x = torch.stack([torch.from_numpy((data[i:i+block_size]).astype(np.int64)) for i in ix])",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "gptconf",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "gptconf = GPTConfig(\n    block_size = block_size, # how far back does the model look? i.e. context size\n    n_layer = 12, n_head = 12, n_embd = 768, # size of the model\n    dropout = 0, # for determinism\n    bias = bias,\n)\nmodel = GPT(gptconf)\nmodel.to(device)\noptimizer = model.configure_optimizers(weight_decay=1e-2, learning_rate=1e-4, betas=(0.9, 0.95), device_type=device_type)\nif compile:",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "model = GPT(gptconf)\nmodel.to(device)\noptimizer = model.configure_optimizers(weight_decay=1e-2, learning_rate=1e-4, betas=(0.9, 0.95), device_type=device_type)\nif compile:\n    print(\"Compiling model...\")\n    model = torch.compile(model) # pytorch 2.0\nif profile:\n    # useful docs on pytorch profiler:\n    # - tutorial https://pytorch.org/tutorials/intermediate/tensorboard_profiler_tutorial.html\n    # - api https://pytorch.org/docs/stable/profiler.html#torch.profiler.profile",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "bench",
+        "description": "bench",
+        "peekOfCode": "optimizer = model.configure_optimizers(weight_decay=1e-2, learning_rate=1e-4, betas=(0.9, 0.95), device_type=device_type)\nif compile:\n    print(\"Compiling model...\")\n    model = torch.compile(model) # pytorch 2.0\nif profile:\n    # useful docs on pytorch profiler:\n    # - tutorial https://pytorch.org/tutorials/intermediate/tensorboard_profiler_tutorial.html\n    # - api https://pytorch.org/docs/stable/profiler.html#torch.profiler.profile\n    wait, warmup, active = 5, 5, 5\n    num_steps = wait + warmup + active",
+        "detail": "bench",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm",
+        "kind": 6,
+        "importPath": "model",
+        "description": "model",
+        "peekOfCode": "class LayerNorm(nn.Module):\n    \"\"\" LayerNorm but with an optional bias. PyTorch doesn't support simply bias=False \"\"\"\n    def __init__(self, ndim, bias):\n        super().__init__()\n        self.weight = nn.Parameter(torch.ones(ndim))\n        self.bias = nn.Parameter(torch.zeros(ndim)) if bias else None\n    def forward(self, input):\n        return F.layer_norm(input, self.weight.shape, self.weight, self.bias, 1e-5)\nclass CausalSelfAttention(nn.Module):\n    def __init__(self, config):",
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "CausalSelfAttention",
+        "kind": 6,
+        "importPath": "model",
+        "description": "model",
+        "peekOfCode": "class CausalSelfAttention(nn.Module):\n    def __init__(self, config):\n        super().__init__()\n        assert config.n_embd % config.n_head == 0\n        # key, query, value projections for all heads, but in a batch\n        self.c_attn = nn.Linear(config.n_embd, 3 * config.n_embd, bias=config.bias)\n        # output projection\n        self.c_proj = nn.Linear(config.n_embd, config.n_embd, bias=config.bias)\n        # regularization\n        self.attn_dropout = nn.Dropout(config.dropout)",
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "MLP",
+        "kind": 6,
+        "importPath": "model",
+        "description": "model",
+        "peekOfCode": "class MLP(nn.Module):\n    def __init__(self, config):\n        super().__init__()\n        self.c_fc    = nn.Linear(config.n_embd, 4 * config.n_embd, bias=config.bias)\n        self.gelu    = nn.GELU()\n        self.c_proj  = nn.Linear(4 * config.n_embd, config.n_embd, bias=config.bias)\n        self.dropout = nn.Dropout(config.dropout)\n    def forward(self, x):\n        x = self.c_fc(x)\n        x = self.gelu(x)",
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "model",
+        "description": "model",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, config):\n        super().__init__()\n        self.ln_1 = LayerNorm(config.n_embd, bias=config.bias)\n        self.attn = CausalSelfAttention(config)\n        self.ln_2 = LayerNorm(config.n_embd, bias=config.bias)\n        self.mlp = MLP(config)\n    def forward(self, x):\n        x = x + self.attn(self.ln_1(x))\n        x = x + self.mlp(self.ln_2(x))",
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "GPTConfig",
+        "kind": 6,
+        "importPath": "model",
+        "description": "model",
+        "peekOfCode": "class GPTConfig:\n    block_size: int = 1024\n    vocab_size: int = 50304 # GPT-2 vocab_size of 50257, padded up to nearest multiple of 64 for efficiency\n    n_layer: int = 12\n    n_head: int = 12\n    n_embd: int = 768\n    dropout: float = 0.0\n    bias: bool = True # True: bias in Linears and LayerNorms, like GPT-2. False: a bit better and faster\nclass GPT(nn.Module):\n    def __init__(self, config):",
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "GPT",
+        "kind": 6,
+        "importPath": "model",
+        "description": "model",
+        "peekOfCode": "class GPT(nn.Module):\n    def __init__(self, config):\n        super().__init__()\n        assert config.vocab_size is not None\n        assert config.block_size is not None\n        self.config = config\n        self.transformer = nn.ModuleDict(dict(\n            wte = nn.Embedding(config.vocab_size, config.n_embd),\n            wpe = nn.Embedding(config.block_size, config.n_embd),\n            drop = nn.Dropout(config.dropout),",
+        "detail": "model",
+        "documentation": {}
+    },
+    {
+        "label": "init_from",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "init_from = 'resume' # either 'resume' (from an out_dir) or a gpt2 variant (e.g. 'gpt2-xl')\nout_dir = 'out' # ignored if init_from is not 'resume'\nstart = \"\\n\" # or \"<|endoftext|>\" or etc. Can also specify a file, use as: \"FILE:prompt.txt\"\nnum_samples = 10 # number of samples to draw\nmax_new_tokens = 500 # number of tokens generated in each sample\ntemperature = 0.8 # 1.0 = no change, < 1.0 = less random, > 1.0 = more random, in predictions\ntop_k = 200 # retain only the top_k most likely tokens, clamp others to have 0 probability\nseed = 1337\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "out_dir",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "out_dir = 'out' # ignored if init_from is not 'resume'\nstart = \"\\n\" # or \"<|endoftext|>\" or etc. Can also specify a file, use as: \"FILE:prompt.txt\"\nnum_samples = 10 # number of samples to draw\nmax_new_tokens = 500 # number of tokens generated in each sample\ntemperature = 0.8 # 1.0 = no change, < 1.0 = less random, > 1.0 = more random, in predictions\ntop_k = 200 # retain only the top_k most likely tokens, clamp others to have 0 probability\nseed = 1337\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = False # use PyTorch 2.0 to compile the model to be faster",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "start = \"\\n\" # or \"<|endoftext|>\" or etc. Can also specify a file, use as: \"FILE:prompt.txt\"\nnum_samples = 10 # number of samples to draw\nmax_new_tokens = 500 # number of tokens generated in each sample\ntemperature = 0.8 # 1.0 = no change, < 1.0 = less random, > 1.0 = more random, in predictions\ntop_k = 200 # retain only the top_k most likely tokens, clamp others to have 0 probability\nseed = 1337\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = False # use PyTorch 2.0 to compile the model to be faster\nexec(open('configurator.py').read()) # overrides from command line or config file",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "num_samples",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "num_samples = 10 # number of samples to draw\nmax_new_tokens = 500 # number of tokens generated in each sample\ntemperature = 0.8 # 1.0 = no change, < 1.0 = less random, > 1.0 = more random, in predictions\ntop_k = 200 # retain only the top_k most likely tokens, clamp others to have 0 probability\nseed = 1337\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = False # use PyTorch 2.0 to compile the model to be faster\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "max_new_tokens",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "max_new_tokens = 500 # number of tokens generated in each sample\ntemperature = 0.8 # 1.0 = no change, < 1.0 = less random, > 1.0 = more random, in predictions\ntop_k = 200 # retain only the top_k most likely tokens, clamp others to have 0 probability\nseed = 1337\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = False # use PyTorch 2.0 to compile the model to be faster\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "temperature",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "temperature = 0.8 # 1.0 = no change, < 1.0 = less random, > 1.0 = more random, in predictions\ntop_k = 200 # retain only the top_k most likely tokens, clamp others to have 0 probability\nseed = 1337\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = False # use PyTorch 2.0 to compile the model to be faster\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)\ntorch.cuda.manual_seed(seed)",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "top_k",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "top_k = 200 # retain only the top_k most likely tokens, clamp others to have 0 probability\nseed = 1337\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = False # use PyTorch 2.0 to compile the model to be faster\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)\ntorch.cuda.manual_seed(seed)\ntorch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "seed",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "seed = 1337\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = False # use PyTorch 2.0 to compile the model to be faster\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)\ntorch.cuda.manual_seed(seed)\ntorch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul\ntorch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "device = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1', etc.\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = False # use PyTorch 2.0 to compile the model to be faster\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)\ntorch.cuda.manual_seed(seed)\ntorch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul\ntorch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn\ndevice_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "dtype",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "dtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32' or 'bfloat16' or 'float16'\ncompile = False # use PyTorch 2.0 to compile the model to be faster\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)\ntorch.cuda.manual_seed(seed)\ntorch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul\ntorch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn\ndevice_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "compile",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "compile = False # use PyTorch 2.0 to compile the model to be faster\nexec(open('configurator.py').read()) # overrides from command line or config file\n# -----------------------------------------------------------------------------\ntorch.manual_seed(seed)\ntorch.cuda.manual_seed(seed)\ntorch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul\ntorch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn\ndevice_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "torch.backends.cuda.matmul.allow_tf32",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "torch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul\ntorch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn\ndevice_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# model\nif init_from == 'resume':\n    # init from a model saved in a specific directory\n    ckpt_path = os.path.join(out_dir, 'ckpt.pt')\n    checkpoint = torch.load(ckpt_path, map_location=device)",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "torch.backends.cudnn.allow_tf32",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "torch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn\ndevice_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# model\nif init_from == 'resume':\n    # init from a model saved in a specific directory\n    ckpt_path = os.path.join(out_dir, 'ckpt.pt')\n    checkpoint = torch.load(ckpt_path, map_location=device)\n    gptconf = GPTConfig(**checkpoint['model_args'])",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "device_type",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "device_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# model\nif init_from == 'resume':\n    # init from a model saved in a specific directory\n    ckpt_path = os.path.join(out_dir, 'ckpt.pt')\n    checkpoint = torch.load(ckpt_path, map_location=device)\n    gptconf = GPTConfig(**checkpoint['model_args'])\n    model = GPT(gptconf)",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "ptdtype",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "ptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# model\nif init_from == 'resume':\n    # init from a model saved in a specific directory\n    ckpt_path = os.path.join(out_dir, 'ckpt.pt')\n    checkpoint = torch.load(ckpt_path, map_location=device)\n    gptconf = GPTConfig(**checkpoint['model_args'])\n    model = GPT(gptconf)\n    state_dict = checkpoint['model']",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "ctx",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "ctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# model\nif init_from == 'resume':\n    # init from a model saved in a specific directory\n    ckpt_path = os.path.join(out_dir, 'ckpt.pt')\n    checkpoint = torch.load(ckpt_path, map_location=device)\n    gptconf = GPTConfig(**checkpoint['model_args'])\n    model = GPT(gptconf)\n    state_dict = checkpoint['model']\n    unwanted_prefix = '_orig_mod.'",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "load_meta",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "load_meta = False\nif init_from == 'resume' and 'config' in checkpoint and 'dataset' in checkpoint['config']: # older checkpoints might not have these...\n    meta_path = os.path.join('data', checkpoint['config']['dataset'], 'meta.pkl')\n    load_meta = os.path.exists(meta_path)\nif load_meta:\n    print(f\"Loading meta from {meta_path}...\")\n    with open(meta_path, 'rb') as f:\n        meta = pickle.load(f)\n    # TODO want to make this more general to arbitrary encoder/decoder schemes\n    stoi, itos = meta['stoi'], meta['itos']",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "start_ids",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "start_ids = encode(start)\nx = (torch.tensor(start_ids, dtype=torch.long, device=device)[None, ...])\n# run generation\nwith torch.no_grad():\n    with ctx:\n        for k in range(num_samples):\n            y = model.generate(x, max_new_tokens, temperature=temperature, top_k=top_k)\n            print(decode(y[0].tolist()))\n            print('---------------')",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "sample",
+        "description": "sample",
+        "peekOfCode": "x = (torch.tensor(start_ids, dtype=torch.long, device=device)[None, ...])\n# run generation\nwith torch.no_grad():\n    with ctx:\n        for k in range(num_samples):\n            y = model.generate(x, max_new_tokens, temperature=temperature, top_k=top_k)\n            print(decode(y[0].tolist()))\n            print('---------------')",
+        "detail": "sample",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleModel",
+        "kind": 6,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "class SimpleModel(nn.Module):\n    def __init__(self):\n        super(SimpleModel, self).__init__()\n        self.fc1 = nn.Linear(784, 256)  # Fully connected layer\n        self.fc2 = nn.Linear(256, 10)   # Fully connected layer\n        self.relu = nn.ReLU()\n    def forward(self, x):\n        x = self.relu(self.fc1(x))\n        x = self.fc2(x)\n        return x",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "model = SimpleModel()\n# Prepare the model for QAT\nmodel.train()\nmodel.qconfig = torch.quantization.get_default_qat_qconfig('fbgemm')  # Use a backend (e.g., 'fbgemm' or 'qnnpack')\nmodel = torch.quantization.prepare_qat(model, inplace=True)\n# Training loop (simplified)\noptimizer = optim.SGD(model.parameters(), lr=0.01)\ncriterion = nn.CrossEntropyLoss()\n# Dummy input and target\ninput_data = torch.randn(32, 784)  # Batch of 32, each with 784 features (e.g., 28x28 images)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "model.qconfig",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "model.qconfig = torch.quantization.get_default_qat_qconfig('fbgemm')  # Use a backend (e.g., 'fbgemm' or 'qnnpack')\nmodel = torch.quantization.prepare_qat(model, inplace=True)\n# Training loop (simplified)\noptimizer = optim.SGD(model.parameters(), lr=0.01)\ncriterion = nn.CrossEntropyLoss()\n# Dummy input and target\ninput_data = torch.randn(32, 784)  # Batch of 32, each with 784 features (e.g., 28x28 images)\ntarget_data = torch.randint(0, 10, (32,))  # Random target classes (0-9)\n# Training step\noptimizer.zero_grad()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "model = torch.quantization.prepare_qat(model, inplace=True)\n# Training loop (simplified)\noptimizer = optim.SGD(model.parameters(), lr=0.01)\ncriterion = nn.CrossEntropyLoss()\n# Dummy input and target\ninput_data = torch.randn(32, 784)  # Batch of 32, each with 784 features (e.g., 28x28 images)\ntarget_data = torch.randint(0, 10, (32,))  # Random target classes (0-9)\n# Training step\noptimizer.zero_grad()\noutput = model(input_data)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "optimizer = optim.SGD(model.parameters(), lr=0.01)\ncriterion = nn.CrossEntropyLoss()\n# Dummy input and target\ninput_data = torch.randn(32, 784)  # Batch of 32, each with 784 features (e.g., 28x28 images)\ntarget_data = torch.randint(0, 10, (32,))  # Random target classes (0-9)\n# Training step\noptimizer.zero_grad()\noutput = model(input_data)\nloss = criterion(output, target_data)\nloss.backward()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "criterion",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "criterion = nn.CrossEntropyLoss()\n# Dummy input and target\ninput_data = torch.randn(32, 784)  # Batch of 32, each with 784 features (e.g., 28x28 images)\ntarget_data = torch.randint(0, 10, (32,))  # Random target classes (0-9)\n# Training step\noptimizer.zero_grad()\noutput = model(input_data)\nloss = criterion(output, target_data)\nloss.backward()\noptimizer.step()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "input_data",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "input_data = torch.randn(32, 784)  # Batch of 32, each with 784 features (e.g., 28x28 images)\ntarget_data = torch.randint(0, 10, (32,))  # Random target classes (0-9)\n# Training step\noptimizer.zero_grad()\noutput = model(input_data)\nloss = criterion(output, target_data)\nloss.backward()\noptimizer.step()\n# After training, convert the model to a quantized model\nmodel.eval()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "target_data",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "target_data = torch.randint(0, 10, (32,))  # Random target classes (0-9)\n# Training step\noptimizer.zero_grad()\noutput = model(input_data)\nloss = criterion(output, target_data)\nloss.backward()\noptimizer.step()\n# After training, convert the model to a quantized model\nmodel.eval()\nquantized_model = torch.quantization.convert(model, inplace=True)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "output",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "output = model(input_data)\nloss = criterion(output, target_data)\nloss.backward()\noptimizer.step()\n# After training, convert the model to a quantized model\nmodel.eval()\nquantized_model = torch.quantization.convert(model, inplace=True)\n# Now you can perform inference with the quantized model\noutput_quantized = quantized_model(input_data)\ntorch.save(output_quantized, 'q.pt')",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "loss",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "loss = criterion(output, target_data)\nloss.backward()\noptimizer.step()\n# After training, convert the model to a quantized model\nmodel.eval()\nquantized_model = torch.quantization.convert(model, inplace=True)\n# Now you can perform inference with the quantized model\noutput_quantized = quantized_model(input_data)\ntorch.save(output_quantized, 'q.pt')",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "quantized_model",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "quantized_model = torch.quantization.convert(model, inplace=True)\n# Now you can perform inference with the quantized model\noutput_quantized = quantized_model(input_data)\ntorch.save(output_quantized, 'q.pt')",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "output_quantized",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "output_quantized = quantized_model(input_data)\ntorch.save(output_quantized, 'q.pt')",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "kind": 6,
+        "importPath": "test2",
+        "description": "test2",
+        "peekOfCode": "class Model(nn.Module):\n    def __init__(self):\n        super().__init__()\n        self.embed = nn.Embedding(100,100)\n    def forward(self,x):\n        return self.embed(x)\nmodel = Model()\nmodel.train()\nfor _, mod in model.named_modules():\n    if isinstance(mod, torch.nn.Embedding):",
+        "detail": "test2",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "test2",
+        "description": "test2",
+        "peekOfCode": "model = Model()\nmodel.train()\nfor _, mod in model.named_modules():\n    if isinstance(mod, torch.nn.Embedding):\n        mod.qconfig = torch.ao.quantization.float_qparams_weight_only_qconfig\ntorch.quantization.convert(model)",
+        "detail": "test2",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleModel",
+        "kind": 6,
+        "importPath": "test3",
+        "description": "test3",
+        "peekOfCode": "class SimpleModel(nn.Module):\n    def __init__(self, vocab_size, embedding_dim, hidden_dim, output_dim):\n        super(SimpleModel, self).__init__()\n        self.embedding = nn.Embedding(vocab_size, embedding_dim)\n        self.linear1 = nn.Linear(embedding_dim, hidden_dim)\n        self.linear2 = nn.Linear(hidden_dim, output_dim)\n    def forward(self, x):\n        x = self.embedding(x)\n        x = self.linear1(x)\n        x = self.linear2(x)",
+        "detail": "test3",
+        "documentation": {}
+    },
+    {
+        "label": "vocab_size",
+        "kind": 5,
+        "importPath": "test3",
+        "description": "test3",
+        "peekOfCode": "vocab_size = 1000\nembedding_dim = 16\nhidden_dim = 32\noutput_dim = 10\n# Initialize the model\nmodel = SimpleModel(vocab_size, embedding_dim, hidden_dim, output_dim)\n# Step 2: Prepare the Model for QAT\nfor _, mod in model.named_modules():\n    if isinstance(mod, nn.Embedding):\n        mod.qconfig = quantization.float_qparams_weight_only_qconfig",
+        "detail": "test3",
+        "documentation": {}
+    },
+    {
+        "label": "embedding_dim",
+        "kind": 5,
+        "importPath": "test3",
+        "description": "test3",
+        "peekOfCode": "embedding_dim = 16\nhidden_dim = 32\noutput_dim = 10\n# Initialize the model\nmodel = SimpleModel(vocab_size, embedding_dim, hidden_dim, output_dim)\n# Step 2: Prepare the Model for QAT\nfor _, mod in model.named_modules():\n    if isinstance(mod, nn.Embedding):\n        mod.qconfig = quantization.float_qparams_weight_only_qconfig\n    elif isinstance(mod, nn.Linear):",
+        "detail": "test3",
+        "documentation": {}
+    },
+    {
+        "label": "hidden_dim",
+        "kind": 5,
+        "importPath": "test3",
+        "description": "test3",
+        "peekOfCode": "hidden_dim = 32\noutput_dim = 10\n# Initialize the model\nmodel = SimpleModel(vocab_size, embedding_dim, hidden_dim, output_dim)\n# Step 2: Prepare the Model for QAT\nfor _, mod in model.named_modules():\n    if isinstance(mod, nn.Embedding):\n        mod.qconfig = quantization.float_qparams_weight_only_qconfig\n    elif isinstance(mod, nn.Linear):\n        mod.qconfig = quantization.get_default_qat_qconfig('fbgemm')",
+        "detail": "test3",
+        "documentation": {}
+    },
+    {
+        "label": "output_dim",
+        "kind": 5,
+        "importPath": "test3",
+        "description": "test3",
+        "peekOfCode": "output_dim = 10\n# Initialize the model\nmodel = SimpleModel(vocab_size, embedding_dim, hidden_dim, output_dim)\n# Step 2: Prepare the Model for QAT\nfor _, mod in model.named_modules():\n    if isinstance(mod, nn.Embedding):\n        mod.qconfig = quantization.float_qparams_weight_only_qconfig\n    elif isinstance(mod, nn.Linear):\n        mod.qconfig = quantization.get_default_qat_qconfig('fbgemm')\nquantization.prepare_qat(model, inplace=True)",
+        "detail": "test3",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "test3",
+        "description": "test3",
+        "peekOfCode": "model = SimpleModel(vocab_size, embedding_dim, hidden_dim, output_dim)\n# Step 2: Prepare the Model for QAT\nfor _, mod in model.named_modules():\n    if isinstance(mod, nn.Embedding):\n        mod.qconfig = quantization.float_qparams_weight_only_qconfig\n    elif isinstance(mod, nn.Linear):\n        mod.qconfig = quantization.get_default_qat_qconfig('fbgemm')\nquantization.prepare_qat(model, inplace=True)\n# Dummy input for demonstration\ninput_data = torch.randint(0, vocab_size, (1,))",
+        "detail": "test3",
+        "documentation": {}
+    },
+    {
+        "label": "input_data",
+        "kind": 5,
+        "importPath": "test3",
+        "description": "test3",
+        "peekOfCode": "input_data = torch.randint(0, vocab_size, (1,))\n# Step 3: Train the Model (Dummy training loop for demonstration)\ncriterion = nn.CrossEntropyLoss()\noptimizer = optim.Adam(model.parameters(), lr=0.001)\n# Dummy training loop\nmodel.train()\nfor epoch in range(5):  # Train for 5 epochs\n    optimizer.zero_grad()\n    output = model(input_data)\n    target = torch.randint(0, output_dim, (1,))",
+        "detail": "test3",
+        "documentation": {}
+    },
+    {
+        "label": "criterion",
+        "kind": 5,
+        "importPath": "test3",
+        "description": "test3",
+        "peekOfCode": "criterion = nn.CrossEntropyLoss()\noptimizer = optim.Adam(model.parameters(), lr=0.001)\n# Dummy training loop\nmodel.train()\nfor epoch in range(5):  # Train for 5 epochs\n    optimizer.zero_grad()\n    output = model(input_data)\n    target = torch.randint(0, output_dim, (1,))\n    loss = criterion(output, target)\n    loss.backward()",
+        "detail": "test3",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "test3",
+        "description": "test3",
+        "peekOfCode": "optimizer = optim.Adam(model.parameters(), lr=0.001)\n# Dummy training loop\nmodel.train()\nfor epoch in range(5):  # Train for 5 epochs\n    optimizer.zero_grad()\n    output = model(input_data)\n    target = torch.randint(0, output_dim, (1,))\n    loss = criterion(output, target)\n    loss.backward()\n    optimizer.step()",
+        "detail": "test3",
+        "documentation": {}
+    },
+    {
+        "label": "quantized_model",
+        "kind": 5,
+        "importPath": "test3",
+        "description": "test3",
+        "peekOfCode": "quantized_model = quantization.convert(model)\nexit()\n# Verify the quantized model\nquantized_model(input_data)\nprint(\"Quantized model structure:\")\nprint(quantized_model)",
+        "detail": "test3",
+        "documentation": {}
+    },
+    {
+        "label": "get_batch",
+        "kind": 2,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "def get_batch(split):\n    # We recreate np.memmap every batch to avoid a memory leak, as per\n    # https://stackoverflow.com/questions/45132940/numpy-memmap-memory-usage-want-to-iterate-once/61472122#61472122\n    if split == 'train':\n        data = np.memmap(os.path.join(data_dir, 'train.bin'), dtype=np.uint16, mode='r')\n    else:\n        data = np.memmap(os.path.join(data_dir, 'val.bin'), dtype=np.uint16, mode='r')\n    ix = torch.randint(len(data) - block_size, (batch_size,))\n    x = torch.stack([torch.from_numpy((data[i:i+block_size]).astype(np.int64)) for i in ix])\n    y = torch.stack([torch.from_numpy((data[i+1:i+1+block_size]).astype(np.int64)) for i in ix])",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "estimate_loss",
+        "kind": 2,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "def estimate_loss():\n    out = {}\n    model.eval()\n    for split in ['train', 'val']:\n        losses = torch.zeros(eval_iters)\n        for k in range(eval_iters):\n            X, Y = get_batch(split)\n            with ctx:\n                logits, loss = model(X, Y)\n            losses[k] = loss.item()",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "get_lr",
+        "kind": 2,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "def get_lr(it):\n    # 1) linear warmup for warmup_iters steps\n    if it < warmup_iters:\n        return learning_rate * (it + 1) / (warmup_iters + 1)\n    # 2) if it > lr_decay_iters, return min learning rate\n    if it > lr_decay_iters:\n        return min_lr\n    # 3) in between, use cosine decay down to min learning rate\n    decay_ratio = (it - warmup_iters) / (lr_decay_iters - warmup_iters)\n    assert 0 <= decay_ratio <= 1",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "out_dir",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "out_dir = 'out'\neval_interval = 2000\nlog_interval = 1\neval_iters = 200\neval_only = False # if True, script exits right after the first eval\nalways_save_checkpoint = True # if True, always save a checkpoint after each eval\ninit_from = 'scratch' # 'scratch' or 'resume' or 'gpt2*'\n# wandb logging\nwandb_log = False # disabled by default\nwandb_project = 'owt'",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "eval_interval",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "eval_interval = 2000\nlog_interval = 1\neval_iters = 200\neval_only = False # if True, script exits right after the first eval\nalways_save_checkpoint = True # if True, always save a checkpoint after each eval\ninit_from = 'scratch' # 'scratch' or 'resume' or 'gpt2*'\n# wandb logging\nwandb_log = False # disabled by default\nwandb_project = 'owt'\nwandb_run_name = 'gpt2' # 'run' + str(time.time())",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "log_interval",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "log_interval = 1\neval_iters = 200\neval_only = False # if True, script exits right after the first eval\nalways_save_checkpoint = True # if True, always save a checkpoint after each eval\ninit_from = 'scratch' # 'scratch' or 'resume' or 'gpt2*'\n# wandb logging\nwandb_log = False # disabled by default\nwandb_project = 'owt'\nwandb_run_name = 'gpt2' # 'run' + str(time.time())\n# data",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "eval_iters",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "eval_iters = 200\neval_only = False # if True, script exits right after the first eval\nalways_save_checkpoint = True # if True, always save a checkpoint after each eval\ninit_from = 'scratch' # 'scratch' or 'resume' or 'gpt2*'\n# wandb logging\nwandb_log = False # disabled by default\nwandb_project = 'owt'\nwandb_run_name = 'gpt2' # 'run' + str(time.time())\n# data\ndataset = 'openwebtext'",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "eval_only",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "eval_only = False # if True, script exits right after the first eval\nalways_save_checkpoint = True # if True, always save a checkpoint after each eval\ninit_from = 'scratch' # 'scratch' or 'resume' or 'gpt2*'\n# wandb logging\nwandb_log = False # disabled by default\nwandb_project = 'owt'\nwandb_run_name = 'gpt2' # 'run' + str(time.time())\n# data\ndataset = 'openwebtext'\ngradient_accumulation_steps = 5 * 8 # used to simulate larger batch sizes",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "always_save_checkpoint",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "always_save_checkpoint = True # if True, always save a checkpoint after each eval\ninit_from = 'scratch' # 'scratch' or 'resume' or 'gpt2*'\n# wandb logging\nwandb_log = False # disabled by default\nwandb_project = 'owt'\nwandb_run_name = 'gpt2' # 'run' + str(time.time())\n# data\ndataset = 'openwebtext'\ngradient_accumulation_steps = 5 * 8 # used to simulate larger batch sizes\nbatch_size = 12 # if gradient_accumulation_steps > 1, this is the micro-batch size",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "init_from",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "init_from = 'scratch' # 'scratch' or 'resume' or 'gpt2*'\n# wandb logging\nwandb_log = False # disabled by default\nwandb_project = 'owt'\nwandb_run_name = 'gpt2' # 'run' + str(time.time())\n# data\ndataset = 'openwebtext'\ngradient_accumulation_steps = 5 * 8 # used to simulate larger batch sizes\nbatch_size = 12 # if gradient_accumulation_steps > 1, this is the micro-batch size\nblock_size = 1024",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_log",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "wandb_log = False # disabled by default\nwandb_project = 'owt'\nwandb_run_name = 'gpt2' # 'run' + str(time.time())\n# data\ndataset = 'openwebtext'\ngradient_accumulation_steps = 5 * 8 # used to simulate larger batch sizes\nbatch_size = 12 # if gradient_accumulation_steps > 1, this is the micro-batch size\nblock_size = 1024\n# model\nn_layer = 12",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_project",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "wandb_project = 'owt'\nwandb_run_name = 'gpt2' # 'run' + str(time.time())\n# data\ndataset = 'openwebtext'\ngradient_accumulation_steps = 5 * 8 # used to simulate larger batch sizes\nbatch_size = 12 # if gradient_accumulation_steps > 1, this is the micro-batch size\nblock_size = 1024\n# model\nn_layer = 12\nn_head = 12",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "wandb_run_name",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "wandb_run_name = 'gpt2' # 'run' + str(time.time())\n# data\ndataset = 'openwebtext'\ngradient_accumulation_steps = 5 * 8 # used to simulate larger batch sizes\nbatch_size = 12 # if gradient_accumulation_steps > 1, this is the micro-batch size\nblock_size = 1024\n# model\nn_layer = 12\nn_head = 12\nn_embd = 768",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "dataset",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "dataset = 'openwebtext'\ngradient_accumulation_steps = 5 * 8 # used to simulate larger batch sizes\nbatch_size = 12 # if gradient_accumulation_steps > 1, this is the micro-batch size\nblock_size = 1024\n# model\nn_layer = 12\nn_head = 12\nn_embd = 768\ndropout = 0.0 # for pretraining 0 is good, for finetuning try 0.1+\nbias = False # do we use bias inside LayerNorm and Linear layers?",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "gradient_accumulation_steps",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "gradient_accumulation_steps = 5 * 8 # used to simulate larger batch sizes\nbatch_size = 12 # if gradient_accumulation_steps > 1, this is the micro-batch size\nblock_size = 1024\n# model\nn_layer = 12\nn_head = 12\nn_embd = 768\ndropout = 0.0 # for pretraining 0 is good, for finetuning try 0.1+\nbias = False # do we use bias inside LayerNorm and Linear layers?\n# adamw optimizer",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "batch_size = 12 # if gradient_accumulation_steps > 1, this is the micro-batch size\nblock_size = 1024\n# model\nn_layer = 12\nn_head = 12\nn_embd = 768\ndropout = 0.0 # for pretraining 0 is good, for finetuning try 0.1+\nbias = False # do we use bias inside LayerNorm and Linear layers?\n# adamw optimizer\nlearning_rate = 6e-4 # max learning rate",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "block_size",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "block_size = 1024\n# model\nn_layer = 12\nn_head = 12\nn_embd = 768\ndropout = 0.0 # for pretraining 0 is good, for finetuning try 0.1+\nbias = False # do we use bias inside LayerNorm and Linear layers?\n# adamw optimizer\nlearning_rate = 6e-4 # max learning rate\nmax_iters = 600000 # total number of training iterations",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "n_layer",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "n_layer = 12\nn_head = 12\nn_embd = 768\ndropout = 0.0 # for pretraining 0 is good, for finetuning try 0.1+\nbias = False # do we use bias inside LayerNorm and Linear layers?\n# adamw optimizer\nlearning_rate = 6e-4 # max learning rate\nmax_iters = 600000 # total number of training iterations\nweight_decay = 1e-1\nbeta1 = 0.9",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "n_head",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "n_head = 12\nn_embd = 768\ndropout = 0.0 # for pretraining 0 is good, for finetuning try 0.1+\nbias = False # do we use bias inside LayerNorm and Linear layers?\n# adamw optimizer\nlearning_rate = 6e-4 # max learning rate\nmax_iters = 600000 # total number of training iterations\nweight_decay = 1e-1\nbeta1 = 0.9\nbeta2 = 0.95",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "n_embd",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "n_embd = 768\ndropout = 0.0 # for pretraining 0 is good, for finetuning try 0.1+\nbias = False # do we use bias inside LayerNorm and Linear layers?\n# adamw optimizer\nlearning_rate = 6e-4 # max learning rate\nmax_iters = 600000 # total number of training iterations\nweight_decay = 1e-1\nbeta1 = 0.9\nbeta2 = 0.95\ngrad_clip = 1.0 # clip gradients at this value, or disable if == 0.0",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "dropout",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "dropout = 0.0 # for pretraining 0 is good, for finetuning try 0.1+\nbias = False # do we use bias inside LayerNorm and Linear layers?\n# adamw optimizer\nlearning_rate = 6e-4 # max learning rate\nmax_iters = 600000 # total number of training iterations\nweight_decay = 1e-1\nbeta1 = 0.9\nbeta2 = 0.95\ngrad_clip = 1.0 # clip gradients at this value, or disable if == 0.0\n# learning rate decay settings",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "bias",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "bias = False # do we use bias inside LayerNorm and Linear layers?\n# adamw optimizer\nlearning_rate = 6e-4 # max learning rate\nmax_iters = 600000 # total number of training iterations\nweight_decay = 1e-1\nbeta1 = 0.9\nbeta2 = 0.95\ngrad_clip = 1.0 # clip gradients at this value, or disable if == 0.0\n# learning rate decay settings\ndecay_lr = True # whether to decay the learning rate",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "learning_rate",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "learning_rate = 6e-4 # max learning rate\nmax_iters = 600000 # total number of training iterations\nweight_decay = 1e-1\nbeta1 = 0.9\nbeta2 = 0.95\ngrad_clip = 1.0 # clip gradients at this value, or disable if == 0.0\n# learning rate decay settings\ndecay_lr = True # whether to decay the learning rate\nwarmup_iters = 2000 # how many steps to warm up for\nlr_decay_iters = 600000 # should be ~= max_iters per Chinchilla",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "max_iters",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "max_iters = 600000 # total number of training iterations\nweight_decay = 1e-1\nbeta1 = 0.9\nbeta2 = 0.95\ngrad_clip = 1.0 # clip gradients at this value, or disable if == 0.0\n# learning rate decay settings\ndecay_lr = True # whether to decay the learning rate\nwarmup_iters = 2000 # how many steps to warm up for\nlr_decay_iters = 600000 # should be ~= max_iters per Chinchilla\nmin_lr = 6e-5 # minimum learning rate, should be ~= learning_rate/10 per Chinchilla",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "weight_decay",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "weight_decay = 1e-1\nbeta1 = 0.9\nbeta2 = 0.95\ngrad_clip = 1.0 # clip gradients at this value, or disable if == 0.0\n# learning rate decay settings\ndecay_lr = True # whether to decay the learning rate\nwarmup_iters = 2000 # how many steps to warm up for\nlr_decay_iters = 600000 # should be ~= max_iters per Chinchilla\nmin_lr = 6e-5 # minimum learning rate, should be ~= learning_rate/10 per Chinchilla\n# DDP settings",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "beta1",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "beta1 = 0.9\nbeta2 = 0.95\ngrad_clip = 1.0 # clip gradients at this value, or disable if == 0.0\n# learning rate decay settings\ndecay_lr = True # whether to decay the learning rate\nwarmup_iters = 2000 # how many steps to warm up for\nlr_decay_iters = 600000 # should be ~= max_iters per Chinchilla\nmin_lr = 6e-5 # minimum learning rate, should be ~= learning_rate/10 per Chinchilla\n# DDP settings\nbackend = 'nccl' # 'nccl', 'gloo', etc.",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "beta2",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "beta2 = 0.95\ngrad_clip = 1.0 # clip gradients at this value, or disable if == 0.0\n# learning rate decay settings\ndecay_lr = True # whether to decay the learning rate\nwarmup_iters = 2000 # how many steps to warm up for\nlr_decay_iters = 600000 # should be ~= max_iters per Chinchilla\nmin_lr = 6e-5 # minimum learning rate, should be ~= learning_rate/10 per Chinchilla\n# DDP settings\nbackend = 'nccl' # 'nccl', 'gloo', etc.\n# system",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "grad_clip",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "grad_clip = 1.0 # clip gradients at this value, or disable if == 0.0\n# learning rate decay settings\ndecay_lr = True # whether to decay the learning rate\nwarmup_iters = 2000 # how many steps to warm up for\nlr_decay_iters = 600000 # should be ~= max_iters per Chinchilla\nmin_lr = 6e-5 # minimum learning rate, should be ~= learning_rate/10 per Chinchilla\n# DDP settings\nbackend = 'nccl' # 'nccl', 'gloo', etc.\n# system\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1' etc., or try 'mps' on macbooks",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "decay_lr",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "decay_lr = True # whether to decay the learning rate\nwarmup_iters = 2000 # how many steps to warm up for\nlr_decay_iters = 600000 # should be ~= max_iters per Chinchilla\nmin_lr = 6e-5 # minimum learning rate, should be ~= learning_rate/10 per Chinchilla\n# DDP settings\nbackend = 'nccl' # 'nccl', 'gloo', etc.\n# system\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1' etc., or try 'mps' on macbooks\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32', 'bfloat16', or 'float16', the latter will auto implement a GradScaler\ncompile = True # use PyTorch 2.0 to compile the model to be faster",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "warmup_iters",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "warmup_iters = 2000 # how many steps to warm up for\nlr_decay_iters = 600000 # should be ~= max_iters per Chinchilla\nmin_lr = 6e-5 # minimum learning rate, should be ~= learning_rate/10 per Chinchilla\n# DDP settings\nbackend = 'nccl' # 'nccl', 'gloo', etc.\n# system\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1' etc., or try 'mps' on macbooks\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32', 'bfloat16', or 'float16', the latter will auto implement a GradScaler\ncompile = True # use PyTorch 2.0 to compile the model to be faster\n# -----------------------------------------------------------------------------",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "lr_decay_iters",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "lr_decay_iters = 600000 # should be ~= max_iters per Chinchilla\nmin_lr = 6e-5 # minimum learning rate, should be ~= learning_rate/10 per Chinchilla\n# DDP settings\nbackend = 'nccl' # 'nccl', 'gloo', etc.\n# system\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1' etc., or try 'mps' on macbooks\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32', 'bfloat16', or 'float16', the latter will auto implement a GradScaler\ncompile = True # use PyTorch 2.0 to compile the model to be faster\n# -----------------------------------------------------------------------------\nconfig_keys = [k for k,v in globals().items() if not k.startswith('_') and isinstance(v, (int, float, bool, str))]",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "min_lr",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "min_lr = 6e-5 # minimum learning rate, should be ~= learning_rate/10 per Chinchilla\n# DDP settings\nbackend = 'nccl' # 'nccl', 'gloo', etc.\n# system\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1' etc., or try 'mps' on macbooks\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32', 'bfloat16', or 'float16', the latter will auto implement a GradScaler\ncompile = True # use PyTorch 2.0 to compile the model to be faster\n# -----------------------------------------------------------------------------\nconfig_keys = [k for k,v in globals().items() if not k.startswith('_') and isinstance(v, (int, float, bool, str))]\nexec(open('configurator.py').read()) # overrides from command line or config file",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "backend",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "backend = 'nccl' # 'nccl', 'gloo', etc.\n# system\ndevice = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1' etc., or try 'mps' on macbooks\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32', 'bfloat16', or 'float16', the latter will auto implement a GradScaler\ncompile = True # use PyTorch 2.0 to compile the model to be faster\n# -----------------------------------------------------------------------------\nconfig_keys = [k for k,v in globals().items() if not k.startswith('_') and isinstance(v, (int, float, bool, str))]\nexec(open('configurator.py').read()) # overrides from command line or config file\nconfig = {k: globals()[k] for k in config_keys} # will be useful for logging\n# -----------------------------------------------------------------------------",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "device = 'cuda' # examples: 'cpu', 'cuda', 'cuda:0', 'cuda:1' etc., or try 'mps' on macbooks\ndtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32', 'bfloat16', or 'float16', the latter will auto implement a GradScaler\ncompile = True # use PyTorch 2.0 to compile the model to be faster\n# -----------------------------------------------------------------------------\nconfig_keys = [k for k,v in globals().items() if not k.startswith('_') and isinstance(v, (int, float, bool, str))]\nexec(open('configurator.py').read()) # overrides from command line or config file\nconfig = {k: globals()[k] for k in config_keys} # will be useful for logging\n# -----------------------------------------------------------------------------\n# various inits, derived attributes, I/O setup\nddp = int(os.environ.get('RANK', -1)) != -1 # is this a ddp run?",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "dtype",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "dtype = 'bfloat16' if torch.cuda.is_available() and torch.cuda.is_bf16_supported() else 'float16' # 'float32', 'bfloat16', or 'float16', the latter will auto implement a GradScaler\ncompile = True # use PyTorch 2.0 to compile the model to be faster\n# -----------------------------------------------------------------------------\nconfig_keys = [k for k,v in globals().items() if not k.startswith('_') and isinstance(v, (int, float, bool, str))]\nexec(open('configurator.py').read()) # overrides from command line or config file\nconfig = {k: globals()[k] for k in config_keys} # will be useful for logging\n# -----------------------------------------------------------------------------\n# various inits, derived attributes, I/O setup\nddp = int(os.environ.get('RANK', -1)) != -1 # is this a ddp run?\nif ddp:",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "compile",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "compile = True # use PyTorch 2.0 to compile the model to be faster\n# -----------------------------------------------------------------------------\nconfig_keys = [k for k,v in globals().items() if not k.startswith('_') and isinstance(v, (int, float, bool, str))]\nexec(open('configurator.py').read()) # overrides from command line or config file\nconfig = {k: globals()[k] for k in config_keys} # will be useful for logging\n# -----------------------------------------------------------------------------\n# various inits, derived attributes, I/O setup\nddp = int(os.environ.get('RANK', -1)) != -1 # is this a ddp run?\nif ddp:\n    init_process_group(backend=backend)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "config_keys",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "config_keys = [k for k,v in globals().items() if not k.startswith('_') and isinstance(v, (int, float, bool, str))]\nexec(open('configurator.py').read()) # overrides from command line or config file\nconfig = {k: globals()[k] for k in config_keys} # will be useful for logging\n# -----------------------------------------------------------------------------\n# various inits, derived attributes, I/O setup\nddp = int(os.environ.get('RANK', -1)) != -1 # is this a ddp run?\nif ddp:\n    init_process_group(backend=backend)\n    ddp_rank = int(os.environ['RANK'])\n    ddp_local_rank = int(os.environ['LOCAL_RANK'])",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "config = {k: globals()[k] for k in config_keys} # will be useful for logging\n# -----------------------------------------------------------------------------\n# various inits, derived attributes, I/O setup\nddp = int(os.environ.get('RANK', -1)) != -1 # is this a ddp run?\nif ddp:\n    init_process_group(backend=backend)\n    ddp_rank = int(os.environ['RANK'])\n    ddp_local_rank = int(os.environ['LOCAL_RANK'])\n    ddp_world_size = int(os.environ['WORLD_SIZE'])\n    device = f'cuda:{ddp_local_rank}'",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "ddp",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "ddp = int(os.environ.get('RANK', -1)) != -1 # is this a ddp run?\nif ddp:\n    init_process_group(backend=backend)\n    ddp_rank = int(os.environ['RANK'])\n    ddp_local_rank = int(os.environ['LOCAL_RANK'])\n    ddp_world_size = int(os.environ['WORLD_SIZE'])\n    device = f'cuda:{ddp_local_rank}'\n    torch.cuda.set_device(device)\n    master_process = ddp_rank == 0 # this process will do logging, checkpointing etc.\n    seed_offset = ddp_rank # each process gets a different seed",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "tokens_per_iter",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "tokens_per_iter = gradient_accumulation_steps * ddp_world_size * batch_size * block_size\nprint(f\"tokens per iteration will be: {tokens_per_iter:,}\")\nif master_process:\n    os.makedirs(out_dir, exist_ok=True)\ntorch.manual_seed(1337 + seed_offset)\ntorch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul\ntorch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn\ndevice_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\n# note: float16 data type will automatically use a GradScaler\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "torch.backends.cuda.matmul.allow_tf32",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "torch.backends.cuda.matmul.allow_tf32 = True # allow tf32 on matmul\ntorch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn\ndevice_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\n# note: float16 data type will automatically use a GradScaler\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# poor man's data z\ndata_dir = os.path.join('data', dataset)\ndef get_batch(split):\n    # We recreate np.memmap every batch to avoid a memory leak, as per",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "torch.backends.cudnn.allow_tf32",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "torch.backends.cudnn.allow_tf32 = True # allow tf32 on cudnn\ndevice_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\n# note: float16 data type will automatically use a GradScaler\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# poor man's data z\ndata_dir = os.path.join('data', dataset)\ndef get_batch(split):\n    # We recreate np.memmap every batch to avoid a memory leak, as per\n    # https://stackoverflow.com/questions/45132940/numpy-memmap-memory-usage-want-to-iterate-once/61472122#61472122",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "device_type",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "device_type = 'cuda' if 'cuda' in device else 'cpu' # for later use in torch.autocast\n# note: float16 data type will automatically use a GradScaler\nptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# poor man's data z\ndata_dir = os.path.join('data', dataset)\ndef get_batch(split):\n    # We recreate np.memmap every batch to avoid a memory leak, as per\n    # https://stackoverflow.com/questions/45132940/numpy-memmap-memory-usage-want-to-iterate-once/61472122#61472122\n    if split == 'train':",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "ptdtype",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "ptdtype = {'float32': torch.float32, 'bfloat16': torch.bfloat16, 'float16': torch.float16}[dtype]\nctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# poor man's data z\ndata_dir = os.path.join('data', dataset)\ndef get_batch(split):\n    # We recreate np.memmap every batch to avoid a memory leak, as per\n    # https://stackoverflow.com/questions/45132940/numpy-memmap-memory-usage-want-to-iterate-once/61472122#61472122\n    if split == 'train':\n        data = np.memmap(os.path.join(data_dir, 'train.bin'), dtype=np.uint16, mode='r')\n    else:",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "ctx",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "ctx = nullcontext() if device_type == 'cpu' else torch.amp.autocast(device_type=device_type, dtype=ptdtype)\n# poor man's data z\ndata_dir = os.path.join('data', dataset)\ndef get_batch(split):\n    # We recreate np.memmap every batch to avoid a memory leak, as per\n    # https://stackoverflow.com/questions/45132940/numpy-memmap-memory-usage-want-to-iterate-once/61472122#61472122\n    if split == 'train':\n        data = np.memmap(os.path.join(data_dir, 'train.bin'), dtype=np.uint16, mode='r')\n    else:\n        data = np.memmap(os.path.join(data_dir, 'val.bin'), dtype=np.uint16, mode='r')",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "data_dir",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "data_dir = os.path.join('data', dataset)\ndef get_batch(split):\n    # We recreate np.memmap every batch to avoid a memory leak, as per\n    # https://stackoverflow.com/questions/45132940/numpy-memmap-memory-usage-want-to-iterate-once/61472122#61472122\n    if split == 'train':\n        data = np.memmap(os.path.join(data_dir, 'train.bin'), dtype=np.uint16, mode='r')\n    else:\n        data = np.memmap(os.path.join(data_dir, 'val.bin'), dtype=np.uint16, mode='r')\n    ix = torch.randint(len(data) - block_size, (batch_size,))\n    x = torch.stack([torch.from_numpy((data[i:i+block_size]).astype(np.int64)) for i in ix])",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "iter_num",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "iter_num = 0\nbest_val_loss = 1e9\n# attempt to derive vocab_size from the dataset\nmeta_path = os.path.join(data_dir, 'meta.pkl')\nmeta_vocab_size = None\nif os.path.exists(meta_path):\n    with open(meta_path, 'rb') as f:\n        meta = pickle.load(f)\n    meta_vocab_size = meta['vocab_size']\n    print(f\"found vocab_size = {meta_vocab_size} (inside {meta_path})\")",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "best_val_loss",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "best_val_loss = 1e9\n# attempt to derive vocab_size from the dataset\nmeta_path = os.path.join(data_dir, 'meta.pkl')\nmeta_vocab_size = None\nif os.path.exists(meta_path):\n    with open(meta_path, 'rb') as f:\n        meta = pickle.load(f)\n    meta_vocab_size = meta['vocab_size']\n    print(f\"found vocab_size = {meta_vocab_size} (inside {meta_path})\")\n# model init",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "meta_path",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "meta_path = os.path.join(data_dir, 'meta.pkl')\nmeta_vocab_size = None\nif os.path.exists(meta_path):\n    with open(meta_path, 'rb') as f:\n        meta = pickle.load(f)\n    meta_vocab_size = meta['vocab_size']\n    print(f\"found vocab_size = {meta_vocab_size} (inside {meta_path})\")\n# model init\nmodel_args = dict(n_layer=n_layer, n_head=n_head, n_embd=n_embd, block_size=block_size,\n                  bias=bias, vocab_size=None, dropout=dropout) # start with model_args from command line",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "meta_vocab_size",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "meta_vocab_size = None\nif os.path.exists(meta_path):\n    with open(meta_path, 'rb') as f:\n        meta = pickle.load(f)\n    meta_vocab_size = meta['vocab_size']\n    print(f\"found vocab_size = {meta_vocab_size} (inside {meta_path})\")\n# model init\nmodel_args = dict(n_layer=n_layer, n_head=n_head, n_embd=n_embd, block_size=block_size,\n                  bias=bias, vocab_size=None, dropout=dropout) # start with model_args from command line\nif init_from == 'scratch':",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "model_args",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "model_args = dict(n_layer=n_layer, n_head=n_head, n_embd=n_embd, block_size=block_size,\n                  bias=bias, vocab_size=None, dropout=dropout) # start with model_args from command line\nif init_from == 'scratch':\n    # init a new model from scratch\n    print(\"Initializing a new model from scratch\")\n    # determine the vocab size we'll use for from-scratch training\n    if meta_vocab_size is None:\n        print(\"defaulting to vocab_size of GPT-2 to 50304 (50257 rounded up for efficiency)\")\n    model_args['vocab_size'] = meta_vocab_size if meta_vocab_size is not None else 50304\n    gptconf = GPTConfig(**model_args)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "scaler",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "scaler = torch.cuda.amp.GradScaler(enabled=(dtype == 'float16'))\n# optimizer\noptimizer = model.configure_optimizers(weight_decay, learning_rate, (beta1, beta2), device_type)\nif init_from == 'resume':\n    optimizer.load_state_dict(checkpoint['optimizer'])\ncheckpoint = None # free up memory\n# compile the model\nif compile:\n    print(\"compiling the model... (takes a ~minute)\")\n    unoptimized_model = model",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "optimizer = model.configure_optimizers(weight_decay, learning_rate, (beta1, beta2), device_type)\nif init_from == 'resume':\n    optimizer.load_state_dict(checkpoint['optimizer'])\ncheckpoint = None # free up memory\n# compile the model\nif compile:\n    print(\"compiling the model... (takes a ~minute)\")\n    unoptimized_model = model\n    model = torch.compile(model) # requires PyTorch 2.0\n# wrap model into DDP container",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "checkpoint",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "checkpoint = None # free up memory\n# compile the model\nif compile:\n    print(\"compiling the model... (takes a ~minute)\")\n    unoptimized_model = model\n    model = torch.compile(model) # requires PyTorch 2.0\n# wrap model into DDP container\nif ddp:\n    model = DDP(model, device_ids=[ddp_local_rank])\n# helps estimate an arbitrarily accurate loss over either split using many batches",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "t0",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "t0 = time.time()\nlocal_iter_num = 0 # number of iterations in the lifetime of this process\nraw_model = model.module if ddp else model # unwrap DDP container if needed\nrunning_mfu = -1.0\nwhile True:\n    # determine and set the learning rate for this iteration\n    lr = get_lr(iter_num) if decay_lr else learning_rate\n    for param_group in optimizer.param_groups:\n        param_group['lr'] = lr\n    # evaluate the loss on train/val sets and write checkpoints",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "local_iter_num",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "local_iter_num = 0 # number of iterations in the lifetime of this process\nraw_model = model.module if ddp else model # unwrap DDP container if needed\nrunning_mfu = -1.0\nwhile True:\n    # determine and set the learning rate for this iteration\n    lr = get_lr(iter_num) if decay_lr else learning_rate\n    for param_group in optimizer.param_groups:\n        param_group['lr'] = lr\n    # evaluate the loss on train/val sets and write checkpoints\n    if iter_num % eval_interval == 0 and master_process:",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "raw_model",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "raw_model = model.module if ddp else model # unwrap DDP container if needed\nrunning_mfu = -1.0\nwhile True:\n    # determine and set the learning rate for this iteration\n    lr = get_lr(iter_num) if decay_lr else learning_rate\n    for param_group in optimizer.param_groups:\n        param_group['lr'] = lr\n    # evaluate the loss on train/val sets and write checkpoints\n    if iter_num % eval_interval == 0 and master_process:\n        losses = estimate_loss()",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "running_mfu",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "running_mfu = -1.0\nwhile True:\n    # determine and set the learning rate for this iteration\n    lr = get_lr(iter_num) if decay_lr else learning_rate\n    for param_group in optimizer.param_groups:\n        param_group['lr'] = lr\n    # evaluate the loss on train/val sets and write checkpoints\n    if iter_num % eval_interval == 0 and master_process:\n        losses = estimate_loss()\n        print(f\"step {iter_num}: train loss {losses['train']:.4f}, val loss {losses['val']:.4f}\")",
+        "detail": "train",
+        "documentation": {}
+    }
+]
